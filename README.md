@@ -1,4 +1,6 @@
 # jaxrs-swagger-sample
+[![CircleCI](https://circleci.com/gh/alchemy-studio/jaxrs-swagger-sample.svg?style=svg)](https://circleci.com/gh/alchemy-studio/jaxrs-swagger-sample)
+
 Sample project for integrate swagger with jaxrs
 
 生成api数据文件：
