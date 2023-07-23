@@ -17,7 +17,7 @@
     <properties>
         <java.version>11</java.version>
         <swagger.version>2.0.10</swagger.version>
-        <resteasy.version>4.3.1.Final</resteasy.version>
+        <resteasy.version>4.6.1.Final</resteasy.version>
         <resteasy.springboot.version>4.3.1.Final</resteasy.springboot.version>
     </properties>
 
